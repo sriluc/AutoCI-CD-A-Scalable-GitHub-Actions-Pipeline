@@ -12,3 +12,5 @@ spec:
         image: my-app:latest
         ports:
         - containerPort: 8080
+
+# Commit 4 - 2025-03-19T16:40:07
